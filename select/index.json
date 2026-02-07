@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ポスト・ポラリス",
+  "base_artist": "酔シグレ",
+  "createdAt": "2026-02-07T08:48:44.079999Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポスト・ポラリス (feat. わかばやし & みょみょ)",
+      "artist": "酔シグレ",
+      "has_synced": false,
+      "path": "select/pl_01_ポスト・ポラリス_(feat._わかばやし_&_みょみょ)_酔シグレ.txt"
+    }
+  ]
+}
